@@ -1,3 +1,5 @@
+<img src="takoneko.png" width=400>
+
 # About
 プログラミングで楽をしたいです。
 
