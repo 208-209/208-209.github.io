@@ -5,7 +5,7 @@
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/n_yobikou?ref_src=twsrc%5Etfw">Tweets by n_yobikou</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # About
-プログラミングで楽をしたいです。
+N予備校でプログラミングの勉強中です。
 
 ## Profile
 - 208-209
