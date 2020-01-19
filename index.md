@@ -1,4 +1,4 @@
-<img src="takoneko.png" width=400>
+![N予備校ロゴ](nyobi_logo.png)
 
 # About
 プログラミングで楽をしたいです。
